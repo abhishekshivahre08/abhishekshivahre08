@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Shivhare</h1>
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh6anI2NjVmbTdsemFiYnhqMHVuc3pocTVqazVneno0cnJteWZheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekshivahre08&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekshivahre08" /> </p>
 
 <h3 align="left">Connect with me:</h3>
