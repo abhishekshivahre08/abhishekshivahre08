@@ -18,7 +18,7 @@
 <img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh6anI2NjVmbTdsemFiYnhqMHVuc3pocTVqazVneno0cnJteWZheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
 
 - 🎓 **Currently:** Pursuing Computer Science & Engineering (3rd Year).
-- 💼 **Professional:** Backend Developer Intern at Zorvyn FinTech.
+- 💼 **Professional:** Full Stack Developer.
 - 🌐 **Portfolio:** [abhishekshivhare.netlify.app](https://abhishekshivhare.netlify.app/)
 - 🛠️ **Building:** AI-powered tools like Abhira.io and fintech apps like StockPulse.
 - 🎯 **Goal:** Mastering DevOps and Cloud Infrastructure.
